@@ -1,0 +1,2 @@
+# CS231n: Convolutional Neural Networks for Visual Recognition - Spring 2021
+I've been following Stanford course [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) in my internship program at Rayanesh company. Here I gathered my notes and solutions to assignments. The course lectures were recorded in [Spring 2017](http://cs231n.stanford.edu/2017/), but the assignments are from [Spring 2021](http://cs231n.stanford.edu/2021/).
