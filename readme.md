@@ -28,3 +28,15 @@ Some concepts in assignments like transformers or Self-Supervised learning are n
 ### Assignment 3 - 2017:
 - [Q4](assignments/assignment3_2017/StyleTransfer-PyTorch.ipynb): Style Transfer. (_Done in PyTorch_)
 
+## CS231n 2017 Notes
+I took notes from some lectures.
+- [Lecture 6](notes/Lecture6.md): Training Neural Networks, Part I.
+- [Lecture 7](notes/Lecture7.md): Training Neural Networks, part II.
+- [Lecture 8](notes/Lecture8.md): Deep Learning Software.
+- [Lecture 9](notes/Lecture9.md): CNN Architectures.
+- [Lecture 10](notes/Lecture10.md): Recurrent Neural Networks.
+- [Lecture 11](notes/Lecture11.md): Detection and Segmentation.
+- [Lecture 12](notes/Lecture12.md): Visualizing and Understanding.
+- [Lecture 13](notes/Lecture13.md): Generative Models.
+
+
