@@ -30,13 +30,21 @@ Some concepts in assignments like transformers or Self-Supervised learning are n
 
 ## CS231n 2017 Notes
 I took notes from some lectures.
-- [Lecture 6](notes/Lecture6.md): Training Neural Networks, Part I.
+<!-- - [Lecture 6](notes/Lecture6.md): Training Neural Networks, Part I.
 - [Lecture 7](notes/Lecture7.md): Training Neural Networks, part II.
 - [Lecture 8](notes/Lecture8.md): Deep Learning Software.
 - [Lecture 9](notes/Lecture9.md): CNN Architectures.
 - [Lecture 10](notes/Lecture10.md): Recurrent Neural Networks.
 - [Lecture 11](notes/Lecture11.md): Detection and Segmentation.
 - [Lecture 12](notes/Lecture12.md): Visualizing and Understanding.
-- [Lecture 13](notes/Lecture13.md): Generative Models.
+- [Lecture 13](notes/Lecture13.md): Generative Models. -->
+- [Lecture 6](https://expensive-party-7a4.notion.site/Lecture-6-bf021569fee34d688365dd8d69457a95): Training Neural Networks, Part I.
+- [Lecture 7](https://expensive-party-7a4.notion.site/Lecture-7-9254463abc544b4ca496271fd43fc304): Training Neural Networks, part II.
+- [Lecture 8](https://expensive-party-7a4.notion.site/Lecture-8-5892d1482a4840fd9d32345ad9e9aa59): Deep Learning Software.
+- [Lecture 9](https://expensive-party-7a4.notion.site/Lecture-9-a8ee87cd54a948fbaba3f35655893d85): CNN Architectures.
+- [Lecture 10](https://expensive-party-7a4.notion.site/Lecture-10-313995a502b840c6beea12374a893f68): Recurrent Neural Networks.
+- [Lecture 11](https://expensive-party-7a4.notion.site/Lecture-11-936760fbedd04cba8ca52db5d7f3bd35): Detection and Segmentation.
+- [Lecture 12](https://expensive-party-7a4.notion.site/Lecture-12-9c3b45e36971487db6898233e4c28d90): Visualizing and Understanding.
+- [Lecture 13](https://expensive-party-7a4.notion.site/Lecture-13-ac2835438f644eadb9b083fa20a12f68): Generative Models.
 
 
