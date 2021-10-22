@@ -33,14 +33,6 @@ You could get starter code from [here](https://cs231n.github.io/assignments2021/
 
 ## CS231n 2017 Notes
 I took notes from some lectures.
-<!-- - [Lecture 6](notes/Lecture6.md): Training Neural Networks, Part I.
-- [Lecture 7](notes/Lecture7.md): Training Neural Networks, part II.
-- [Lecture 8](notes/Lecture8.md): Deep Learning Software.
-- [Lecture 9](notes/Lecture9.md): CNN Architectures.
-- [Lecture 10](notes/Lecture10.md): Recurrent Neural Networks.
-- [Lecture 11](notes/Lecture11.md): Detection and Segmentation.
-- [Lecture 12](notes/Lecture12.md): Visualizing and Understanding.
-- [Lecture 13](notes/Lecture13.md): Generative Models. -->
 - [Lecture 6](https://expensive-party-7a4.notion.site/Lecture-6-bf021569fee34d688365dd8d69457a95): Training Neural Networks, Part I.
 - [Lecture 7](https://expensive-party-7a4.notion.site/Lecture-7-9254463abc544b4ca496271fd43fc304): Training Neural Networks, part II.
 - [Lecture 8](https://expensive-party-7a4.notion.site/Lecture-8-5892d1482a4840fd9d32345ad9e9aa59): Deep Learning Software.
